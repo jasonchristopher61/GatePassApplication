@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "879288774719",
+    "firebase_url": "https://gatepass-5846a.firebaseio.com",
+    "project_id": "gatepass-5846a",
+    "storage_bucket": "gatepass-5846a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879288774719:android:955ddd172c53686444c88a",
+        "android_client_info": {
+          "package_name": "com.mt.gatepasslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879288774719-o95r7j48e6qkqualls92kd3pkln5fkjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSoa8WhpAAN5WxA9B4fQOXocEr5Xnejk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879288774719-o95r7j48e6qkqualls92kd3pkln5fkjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
